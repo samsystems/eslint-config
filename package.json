@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-samsystems",
+  "version": "1.2.0",
+  "description": "ESLint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samsystems/eslint-config.git"
+  },
+  "author": "SAM SYSTEMS <developers@samsystems.com> (http://samsystems.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flexshopper/eslint-config/issues"
+  },
+  "homepage": "https://github.com/flexshopper/eslint-config#readme",
+  "peerDependencies": {
+    "eslint": "^1.10.3",
+    "babel-eslint": "^5.0.0-beta6",
+    "eslint-config-yandex": "^1.0.5"
+  },
+  "dependencies": {
+    "babel-eslint": "^5.0.0-beta6",
+    "eslint": "^1.10.3",
+    "eslint-config-yandex": "^1.0.5"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ]
+}
